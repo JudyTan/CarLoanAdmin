@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Q8dZ0MmowlgHEpoollQ6dN8mFK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="D:\softwares\webstrom\webstrom\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\loanCar\vue-xuAdmin-master\src\router" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.vue_test">
+    <configuration name="vue" type="JavascriptDebugType" uri="http://localhost:8080/">
+      <method v="2" />
+    </configuration>
+    <configuration name="vue_test" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.vue" />
+      <item itemvalue="npm.vue_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a9835fd-ab8f-45b0-854d-0e4a3f0246d5" name="Default Changelist" comment="" />
+      <created>1555304823062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555304823062</updated>
+      <workItem from="1555304824158" duration="1125000" />
+      <workItem from="1555306926062" duration="849000" />
+      <workItem from="1555582522672" duration="1058000" />
+      <workItem from="1567156211062" duration="4800000" />
+      <workItem from="1567299971763" duration="6507000" />
+      <workItem from="1567316647423" duration="18237000" />
+      <workItem from="1567395809752" duration="9958000" />
+      <workItem from="1567473095388" duration="11803000" />
+      <workItem from="1568101986402" duration="3871000" />
+      <workItem from="1568280085908" duration="3446000" />
+      <workItem from="1568598242703" duration="25624000" />
+      <workItem from="1568684810278" duration="28448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="打包前的左上角项目名字颜色" />
+    <option name="LAST_COMMIT_MESSAGE" value="打包前的左上角项目名字颜色" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/router/index.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/role.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>42</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <line>31</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>30</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>23</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/vuex/modules/routerData.js</url>
+          <line>24</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
